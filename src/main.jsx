@@ -7,7 +7,7 @@ import {ContextProvider} from './Context/Context.jsx'
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/tecnologieShop',
     element:<App />
   },
   {
